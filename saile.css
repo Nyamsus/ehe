@@ -1,0 +1,159 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#titik{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 128, 0);
+}
+
+#hello{
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#ayo{
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#hr{
+    margin-left: 20px;
+    width: 116em;
+    color: black;
+}
+
+#img{
+   margin-left: 20px; 
+}
+
+.menu {
+    display: block;
+    background-color: #01fbff;
+    height: 46px;
+}
+
+#navigasi {
+    position: relative;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-position: outside;
+}
+
+#navigasi a {
+    display: block;
+    padding: 8px 16px;
+    background-color: #01fbff;
+    color: #fff;
+    text-decoration: none;
+}
+
+#navigasi a:hover {
+    background-color: #00d0ff;
+    color: #fff;
+}
+
+#navigasi li {
+    position: relative;
+    float: left;
+}
+
+#navigasi ul {
+    position: absolute;
+    display: none;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-position: outside;
+}
+
+#navigasi li ul a {
+    width: 4em;
+    height: auto;
+    float: left;
+}
+
+#navigasi li:hover ul {
+    display: block;
+}
+
+#navigasi li:hover ul ul {
+    display: none;
+}
+
+
+#tent{
+    margin-left: 95em;
+}
+
+#bawah{
+    margin-left: 20px;
+    float: left;
+    list-style-type: none;
+}
+
+#bawah2{
+    margin-left: 220px;
+    float: left;
+    list-style-type: none;
+}
+
+#bawah3{
+    margin-left: 233px;
+    float: left;
+    list-style-type: none;
+}
+
+#bawah4{
+    margin-left: 255px;
+    float: left;
+    list-style-type: none;  
+}
+
+#sumbit {
+    margin-left: 20px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 260px;
+    font-size: 25px;
+
+}
+
+#sumbit:hover {
+    letter-spacing: 5px;
+    background-color: rgb(255, 0, 0);
+    transition: 0.5s;
+}
+
+#atas{
+    height: 30px;
+    width: 250px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+#teng{
+    margin-left: 20px;
+}
+
+#div{
+    background-color: #013642;
+}
+
+#p{
+    color: white;
+    margin-left: 112em;
+}
+
+#spa{
+    color: rgba(255, 167, 2, 0.586);
+}
+
+#span{
+    color: red;
+}
